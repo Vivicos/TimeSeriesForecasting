@@ -47,3 +47,6 @@ for i in range(1,n):
 
 
 print("Secuencia de Fibonacci completada.")
+
+
+print("Secuencia de Fibonacci completada.")
